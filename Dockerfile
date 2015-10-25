@@ -1,4 +1,4 @@
-#Baseimage test
+#Baseimage test - private
 FROM ubuntu:15.10
 
 MAINTAINER Jks
